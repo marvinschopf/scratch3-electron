@@ -1,0 +1,12 @@
+{
+  "name": "scratch3-electron",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
