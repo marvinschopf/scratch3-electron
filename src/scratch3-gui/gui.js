@@ -109,7 +109,7 @@ _gui2.default.setAppElement(appTarget);
 var WrappedGui = (0, _hashParserHoc2.default)((0, _appStateHoc2.default)(_gui2.default));
 
 // TODO a hack for testing the backpack, allow backpack host to be set by url param
-var backpackHostMatches = window.location.href.match(/[?&]backpack_host=(.*)&?/);
+var backpackHostMatches = window.location.href.match(/[?&]backpack_host=([^&]*)&?/);
 var backpackHost = backpackHostMatches ? backpackHostMatches[1] : null;
 
 var backpackOptions = {
