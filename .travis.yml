@@ -1,0 +1,2 @@
+before_script: yarn install
+script: yarn run build
