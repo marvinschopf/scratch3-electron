@@ -543,7 +543,7 @@ electron-builder-lib@~20.14.6:
     stream-json "^0.6.1"
     temp-file "^3.1.2"
 
-electron-builder@^20.15.1:
+electron-builder@20.15.1:
   version "20.15.1"
   resolved "https://registry.yarnpkg.com/electron-builder/-/electron-builder-20.15.1.tgz#078cda29bdb7240244e9bccf30740b1ea42deb44"
   dependencies:
@@ -615,7 +615,7 @@ electron-osx-sign@0.4.10, electron-osx-sign@^0.4.1:
     minimist "^1.2.0"
     plist "^2.1.0"
 
-electron-packager@^12.1.0:
+electron-packager@12.1.0:
   version "12.1.0"
   resolved "https://registry.yarnpkg.com/electron-packager/-/electron-packager-12.1.0.tgz#048dd4ff3848be19c5873c315b5b312df6215328"
   dependencies:
@@ -661,7 +661,7 @@ electron-publish@20.15.0:
     lazy-val "^1.0.3"
     mime "^2.3.1"
 
-electron@^2.0.2:
+electron@2.0.2:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/electron/-/electron-2.0.2.tgz#b77e05f83419cc5ec921a2d21f35b55e4bfc3d68"
   dependencies:
