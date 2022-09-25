@@ -6,7 +6,7 @@
   "devDependencies": {
     "electron": "^2.0.2",
     "electron-builder": "^20.15.1",
-    "electron-packager": "^12.1.0"
+    "electron-packager": "16.0.0"
   },
   "scripts": {
     "start": "electron .",
